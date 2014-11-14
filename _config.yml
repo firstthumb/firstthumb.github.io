@@ -7,8 +7,8 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://www.ekocaman.com'
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'www.ekocaman.com'
+author:         'Erol KOCAMAN'

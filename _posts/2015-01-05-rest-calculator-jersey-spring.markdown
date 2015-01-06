@@ -10,5 +10,8 @@ You can check code on [Pocket Calculator Github][pocket-calculator]
 
 You can test online [Pocket Calculator Heroku][heroku-live]
 
+![Pocket Calculator Screenshot][image-1]
+
 [pocket-calculator]: https://github.com/firstthumb/Pocket-Calculator
 [heroku-live]: http://guarded-ridge-7544.herokuapp.com/
+[image-1]: http://firstthumb.github.io/assets/images/post/2/1.png

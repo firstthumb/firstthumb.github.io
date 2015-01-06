@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Rest Calculator with Jersey and Spring Framework"
+date:   2014-11-14 15:18:00
+categories: Java Jersey Spring Rest
+---
+In one of my reviews, employer wanted me to create a simple rest calculator so I decided to use Jersey(2.12) which supports Java-RS specification and Spring Framework(4.0.0.RELEASE) for dependency injection, Angular JS(1.0.3) on client site for easy integration to rest service.
+
+You can check code on [Pocket Calculator Github][pocket-calculator]
+
+You can test online [Pocket Calculator Heroku][heroku-live]
+
+[pocket-calculator]: https://github.com/firstthumb/Pocket-Calculator
+[heroku-live]: http://guarded-ridge-7544.herokuapp.com/
